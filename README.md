@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 20;">
 
-![Well...](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=300&text=I%20am%20Licht%20Bahaman&fontSize=40&desc=Front-End%20Dev%20/%20Leaner&descAlign=41&animation=fadeIn&fontColor=e2e2e2)
+![Well...](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=300&text=I%20am%20Licht%20Bahaman&fontSize=40&desc=Front-End%20Dev%20/%20Learner&descAlign=41&animation=fadeIn&fontColor=e2e2e2)
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SvbEas9j) 
