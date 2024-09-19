@@ -55,6 +55,7 @@
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://i.pinimg.com/564x/7d/93/1a/7d931a44e0ee7e989eae434dc4a0aa4d.jpg)
 
 
 [![](https://visitcount.itsvg.in/api?id=arnav-101&icon=0&color=0)](https://visitcount.itsvg.in)
